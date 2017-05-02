@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c-allaboutrecsports" path="c-allaboutrecsports.html"/>
+   <appContext helpID="group_exercise" path="c-groupxintro.html"/>
+   <appContext helpID="task_glc_m3f_tz" path="t-groupclasses.html"/>
+   <appContext helpID="group_exercise_memberships" path="c-groupexmemberships.html"/>
+   <appContext helpID="how_to_pay_and_sign_up_for_group_fitness_classes"
+               path="t-groupexsignup.html"/>
+   <appContext helpID="c-personaltrainingintro" path="c-personaltrainingintro.html"/>
+   <appContext helpID="c-ptpackages" path="c-ptpackages.html"/>
+   <appContext helpID="t-ptsignup" path="t-ptsignup.html"/>
+   <appContext helpID="c-fitnessassessment" path="c-fitnessassessment.html"/>
+   <appContext helpID="t-registerfitnessassessment"
+               path="t-registerfitnessassessment.html"/>
+   <appContext helpID="t-isintro" path="c-intramuralsports.html"/>
+   <appContext helpID="t-choosingasport" path="t-choosingasport.html"/>
+   <appContext helpID="how_to_sign_up_for_intramural_sports"
+               path="t-signupintramural.html"/>
+   <appContext helpID="concept_j1p_fvd_tz" path="c-employmentopportunities.html"/>
+   <appContext helpID="task_a5r_5zd_tz" path="t-studentjobs.html"/>
+   <appContext helpID="task_jn2_gck_tz" path="t-employmentpackets.html"/>
+   <appContext helpID="club_sports" path="c-clubsports.html"/>
+   <appContext helpID="venture_out" path="c-ventureout.html"/>
+   <appContext helpID="small_group_training" path="c-smallgrouptraining.html"/>
+</map>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Kaitlyn\Documents\GitHub\recsports\temp\webhelp-responsive\Users\Kaitlyn\Documents\GitHub\recsports?><?workdir-uri file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/temp/webhelp-responsive/Users/Kaitlyn/Documents/GitHub/recsports/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD LW DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="t-isintro" ditaarch:DITAArchVersion="1.3" domains="(hi-d) (topic h5m-d)" specmodel="inherit" specrole="editable" class="- topic/topic " xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/c-intramuralsports.dita" xtrc="topic:1;3:23">
+  <title specmodel="inherit" specrole="editable" class="- topic/title " xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/c-intramuralsports.dita" xtrc="title:1;4:10">Intramural Sports at Virginia Tech! </title>
+  <shortdesc specmodel="inherit" specrole="editable" class="- topic/shortdesc " xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/c-intramuralsports.dita" xtrc="shortdesc:1;5:14">One of the best ways to get involved on campus is joining an intramural sports team.
+    Whether you are an athletic junkie, missing high school sports, or want a way to meet friends,
+    intramural sports are calling your name! </shortdesc>
+ 
+  <body specmodel="inherit" specrole="editable" class="- topic/body " xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/c-intramuralsports.dita" xtrc="body:1;9:9">
+    <p conref="c-disclaimer.dita#disclaimer/physicalactivitydisclaimer" specmodel="inherit" specrole="editable" class="- topic/p " xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/c-intramuralsports.dita" xtrc="p:1;10:73"/>
+    <p conref="c-disclaimer.dita#disclaimer/physicalinjurydisclaimer" specmodel="inherit" specrole="editable" class="- topic/p " xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/c-intramuralsports.dita" xtrc="p:2;11:71"/>
+    <p specmodel="inherit" specrole="editable" class="- topic/p " xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/c-intramuralsports.dita" xtrc="p:3;12:8">Intramural Sports are played on campus, and are enjoyed by faculty, staff, and students. Not
+      only is intramural sports a great way to meet new friendly faces; it is an easy way to stay
+      active, keep busy, and tap into that competitive side you've been hiding since high school. </p>
+    <p specmodel="inherit" specrole="editable" class="- topic/p " xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/c-intramuralsports.dita" xtrc="p:4;15:8">No experience is necessary for intramural sports! A membership is available which allows you
+      to participate in any sport for the duration of the year. Join others in chess, soccer,
+      horseshoes, or or the millions of other sports provided, Try them all! </p>
+    <p specmodel="inherit" specrole="editable" class="- topic/p " xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/c-intramuralsports.dita" xtrc="p:5;18:8">Each sport has the goal of receiving the HokieGrail at the end of the "season". This award is
+      given to the All University Intramural Champion based off of a point system. For more
+      information regarding intramurals, be sure to join the intramural list serve to receive
+      updates and informative emails. <image href="http://www.oit.edu/images/default-source/athletics-images/general/intramural-sports.jpg?sfvrsn=6" specmodel="inherit" specrole="editable" class="- topic/image " xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/c-intramuralsports.dita" xtrc="image:1;23:9"/></p>
+  </body>
+</topic>

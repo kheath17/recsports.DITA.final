@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="t-isintro">
+  <title>Intramural Sports at Virginia Tech</title>
+  <shortdesc>One of the best ways to get involved on campus is to join an intramural sports team.
+    Whether you are an athletic junkie, missing high school sports, or want a way to meet friends,
+    intramural sports are calling your name! </shortdesc>
+ 
+  <body>
+    <p conref="c-disclaimer.dita#disclaimer/physicalactivitydisclaimer"></p>
+    <p conref="c-disclaimer.dita#disclaimer/physicalinjurydisclaimer"></p>
+    <p>Intramural sports are played on campus, and are enjoyed by faculty, staff, and students. Not
+      only are intramural sports a great way to meet new friendly faces; joining is an easy way to stay
+      active, keep busy, and tap into that competitive side you've been hiding since high school. </p>
+    <p>No experience is necessary for intramural sports! A membership is available which allows you
+      to participate in any sport for the duration of the year. Join others in chess, soccer,
+      horseshoes, or the millions of other sports provided. Try them all! </p>
+    <p>Each sport has the goal of receiving the HokieGrail at the end of the season. This award is
+      given to the All University Intramural Champion based on a point system. For more
+      information regarding intramurals, be sure to join the intramural listserv to receive updates and informative emails.
+      <image     href="http://www.oit.edu/images/default-source/athletics-images/general/intramural-sports.jpg?sfvrsn=6"
+      /></p>
+    <p>If you want a more competitive experience with more dedicated team members you might want to consider Club Sports at Virginia Tech:  <xref href="c-clubsports.md"></xref>/>.</p>
+  </body>
+</topic>

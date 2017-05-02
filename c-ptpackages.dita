@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-ptpackages">
+    <title>Types of Personal Training Packages</title>
+    <shortdesc>There are many different packages available, so you can pick the best one that meets your needs. Packages can be for a year or a semester.</shortdesc>
+    <conbody>
+    <p conref="c-disclaimer.dita#disclaimer/physicalactivitydisclaimer"/>
+        <p>Yearly packages:
+        <ul> 
+            <li>24 sessions cost $366, which is equal to $15.25 per session.</li>
+            <li>32 sessions cost $480, which is equal to $15 per session.</li>
+        </ul>
+        </p>
+        <p>Semester packages:
+            <ul>
+                <li>A single session, which is only available to renewing clients, costs $16.50.</li>
+                <li>2 sessions (orientation package), which includes a fitness assessment and another session, cost $33.</li>
+                <li>3 sessions cost $49.50.</li>
+                <li>5 sessions cost $82.50.</li>
+                <li>8 sessions cost $130, which is equal to $16.25 per session.</li>
+                <li>12 sessions cost $192, which is equal to $16 per session. </li>
+                <li>16 sessions cost $252, which is equal to $15.75 per session.</li>
+                <li>18 sessions cost $279, which is equal to $15.50 per session.</li>
+            </ul>
+        </p>
+        <p>You can also sign up for partner training packages, if you want to train with a friend using the same personal trainer.</p>
+        <p>
+            <ul>
+                <li>3 sessions cost $30 per person.</li>
+                <li>5 sessions cost $50 per person.</li>
+                <li>8 sessions cost $80 per person.</li>
+            </ul>
+            
+            </p>
+        <image placement="break" href="ptpackages.jpg" scale="50" align="center"
+            id="image_imf_sn2_tz"/> 
+
+    </conbody>
+</concept>

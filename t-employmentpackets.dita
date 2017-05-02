@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_jn2_gck_tz">
+    <title>Employment Packets</title>
+     <taskbody>
+        <context>
+            <p>Hired students (and students interested in being an Intramural Sports official) will need to fill out the employment packets in order to work for the Department of Recreational Sports. These packets can now be filled out online here (click each link to open the file):</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Fill out online, print off, and sign the <xref format="pdf" href="studentemployinfo.pdf">Student Employee Information Form.</xref></cmd>
+            </step>
+            <step>
+                <cmd>Fill out online, print off, and sign the <xref format="pdf" href="selectiveservices.pdf">Selective Service Registration Questionnaire</xref> (Only males need to complete this form)</cmd>
+            </step>
+            <step>
+                <cmd>Fill out online (DO NOT ENTER DATES), print off, and sign the <xref format="pdf" href="fw4.pdf">Federal W-4 Form.</xref></cmd>
+            </step>
+            <step>
+                <cmd>Fill out online (DO NOT ENTER DATES), print off, and sign the Virginia VA-4 Form.</cmd>
+            </step>
+            <step>
+                <cmd>Fill out online (DO NOT ENTER DATES), print off, and sign the <xref format="pdf" href="inine.pdf"> Employment Eligibility I-9 Form</xref> (Section I only)</cmd>
+            </step>
+            <step>
+                <cmd>Print off and sign the <xref format="pdf" href="fs2.pdf"> Proper Use of State Vehicles (FS-2) Form.</xref></cmd>
+            </step>
+            <step>
+                <cmd>Print off and sign the <xref format="pdf" href="ferpastatement.pdf">Virginia Tech Recreational Sports Statement of FERPA Understanding.</xref></cmd>
+            </step>
+            <step>
+                <cmd>Login to HokieSpa, click University Account Information, click Enroll in Direct Deposit, enter information - Payroll, enter the required fields (leaving 100 percent as Deposit Amount if using only 1 bank), and click submit, click Add This Bank, click Save Changes.</cmd>
+            </step>
+        </steps>
+         <postreq>All seven steps must be completed, and all printed items from steps 1-6 must be turned in prior to beginning work for the Department of Recreational Sports. If you have questions about filling out these forms, please call 540-231-6856 or your supervisor within the Department of Recreational Sports.</postreq>
+    </taskbody>
+</task>

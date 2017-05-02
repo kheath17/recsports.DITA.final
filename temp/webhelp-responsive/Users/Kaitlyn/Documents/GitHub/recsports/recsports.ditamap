@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Kaitlyn\Documents\GitHub\recsports\temp\webhelp-responsive\Users\Kaitlyn\Documents\GitHub\recsports?><?workdir-uri file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/temp/webhelp-responsive/Users/Kaitlyn/Documents/GitHub/recsports/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Map//EN?><?doctype-system map.dtd?><map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " xtrc="map:1;3:6" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+ <title class="- topic/title " xtrc="title:1;4:10" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap"/>
+ <topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Welcome!" xtrc="topichead:1;5:33" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+ <topicref class="- map/topicref " href="C-allaboutrecsports.dita" xtrc="topicref:1;6:45" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap"/>
+ </topichead>
+<topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Group Exercise (Group X)" xtrc="topichead:2;8:48" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+ <topicref class="- map/topicref " format="dita" href="c-groupexmemberships.md" xtrc="topicref:2;9:61" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+   <topicmeta class="- map/topicmeta " xtrc="topicmeta:1;10:15" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+     <shortdesc class="- map/shortdesc " xtrc="shortdesc:1;11:17" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">STUFF.</shortdesc>
+   </topicmeta>
+ </topicref>
+ <topicref class="- map/topicref " format="dita" href="t-groupexsignup.md" xtrc="topicref:3;14:56" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+   <topicmeta class="- map/topicmeta " xtrc="topicmeta:2;15:15" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+     <shortdesc class="- map/shortdesc " xtrc="shortdesc:2;16:17" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">STUFF.</shortdesc>
+   </topicmeta>
+ </topicref>
+</topichead>
+<topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Personal Training" xtrc="topichead:3;20:41" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+    <topicref class="- map/topicref " href="c-personaltrainingintro.dita" xtrc="topicref:4;21:52" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap"/>
+  <topicref class="- map/topicref " href="c-ptpackages.dita" xtrc="topicref:5;22:39" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap"/>
+  <topicref class="- map/topicref " href="t-ptsignup.dita" xtrc="topicref:6;23:37" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap"/>
+  <topicref class="- map/topicref " href="c-fitnessassessment.dita" xtrc="topicref:7;24:46" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap"/>
+  <topicref class="- map/topicref " href="t-registerfitnessassessment.dita" xtrc="topicref:8;25:54" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap"/>
+</topichead>
+<topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Intramural Sports" xtrc="topichead:4;27:41" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+ <topicref class="- map/topicref " href="c-intramuralsports.dita" xtrc="topicref:9;28:44" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap"/>
+ <topicref class="- map/topicref " href="t-choosingasport.dita" xtrc="topicref:10;29:42" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap"/>
+ <topicref class="- map/topicref " format="dita" href="t-signupintramural.md" xtrc="topicref:11;30:59" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+   <topicmeta class="- map/topicmeta " xtrc="topicmeta:3;31:15" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+     <shortdesc class="- map/shortdesc " xtrc="shortdesc:3;32:17" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">STUFF.</shortdesc>
+   </topicmeta>
+ </topicref>
+</topichead>
+<topichead class="+ map/topicref mapgroup-d/topichead " navtitle="Other Opportunities" xtrc="topichead:5;36:43" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+  <topicref class="- map/topicref " format="dita" href="c-clubsports.md" xtrc="topicref:12;37:54" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+    <topicmeta class="- map/topicmeta " xtrc="topicmeta:4;38:16" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+      <shortdesc class="- map/shortdesc " xtrc="shortdesc:4;39:18" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">STUFF.</shortdesc>
+    </topicmeta>
+  </topicref>
+  <topicref class="- map/topicref " format="dita" href="c-ventureout.md" xtrc="topicref:13;42:54" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+    <topicmeta class="- map/topicmeta " xtrc="topicmeta:5;43:16" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+      <shortdesc class="- map/shortdesc " xtrc="shortdesc:5;44:18" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">STUFF.</shortdesc>
+    </topicmeta>
+  </topicref>
+  <topicref class="- map/topicref " format="dita" href="c-smallgrouptraining.md" xtrc="topicref:14;47:62" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+    <topicmeta class="- map/topicmeta " xtrc="topicmeta:6;48:16" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">
+      <shortdesc class="- map/shortdesc " xtrc="shortdesc:6;49:18" xtrf="file:/C:/Users/Kaitlyn/Documents/GitHub/recsports/recsports.ditamap">STUFF.</shortdesc>
+    </topicmeta>
+  </topicref>
+</topichead>
+</map>

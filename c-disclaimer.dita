@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="disclaimer">
+ <title>Disclaimer</title>
+ <shortdesc>These are disclaimers for recreational sports in this webhelp.</shortdesc>
+ <conbody>
+  <p id="physicalactivitydisclaimer">You should be in good physical condition if participating in
+   recreational sports. Please consult your doctor if you have any medical conditions that could be
+   jeopardized by participation. </p>
+  <p id="physicalinjurydisclaimer">Please understand that there is always the possibility for injury when participating in any exercise or sports program.</p>
+ </conbody>
+</concept>

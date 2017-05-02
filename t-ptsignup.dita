@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-ptsignup">
+    <title>How to Sign Up for Personal Training Sessions</title>
+    <shortdesc>If you have decided that you want to participate in personal training, follow these steps to sign up and pay for the sessions you want.</shortdesc>
+    <taskbody>
+       <steps>
+            <step>
+                <cmd>Visit the Rec Sports website and log in using your PID.</cmd>
+            </step>
+            <step>
+                <cmd>Under the section titled "category" on the lefthand side of the page, click on the "personal training" tab to view only the personal training packages.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the package you want to sign up for and click "add to cart."</cmd>
+            </step>
+            <step>
+                <cmd>If you want to look for more packages, click "continue shopping."</cmd>
+            </step>
+            <step>
+                <cmd>If you want to remove the item from you cart, click "remove."</cmd>
+            </step>
+            <step>
+                <cmd>When you are happy with your purchase, click "checkout."</cmd>
+            </step>
+            <step>
+                <cmd>Insert your payment information and review your order before purchasing.</cmd>
+            </step>
+        </steps>
+        <postreq>If a session is ever canceled, you will be issued a full refund. If you have a
+            documented medical condition that no longer allows you to complete your sessions, a
+            refund may be issued and will include a $10 processing fee. You must send a request and
+            medical notice to the assistant director for fitness programs. If you have any other
+            questions about the refund policy, contact recsports@vt.edu. <image placement="break"
+                href="ptsignup.jpg" align="center" id="image_lg4_k42_tz"/></postreq> 
+       
+    </taskbody>
+</task>
